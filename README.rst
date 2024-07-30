@@ -3,17 +3,6 @@ TravelMapper
 =============
 
 
-.. image:: https://img.shields.io/pypi/v/travel_mapper.svg
-        :target: https://pypi.python.org/pypi/travel_mapper
-
-.. image:: https://img.shields.io/travis/rmartinshort/travel_mapper.svg
-        :target: https://travis-ci.com/rmartinshort/travel_mapper
-
-.. image:: https://readthedocs.org/projects/travel-mapper/badge/?version=latest
-        :target: https://travel-mapper.readthedocs.io/en/latest/?version=latest
-        :alt: Documentation Status
-
-
 Basic usage
 ------------
 
@@ -59,15 +48,6 @@ run from the top level directory. You may need to give it permissions first
 
 
 
-
-You should then be able to open the app locally
-
-* Free software: MIT license
-* Documentation: https://travel-mapper.readthedocs.io.
-
-Please report errors or issues to martinshortr@gmail.com
-
-
 Features
 --------
 
@@ -88,12 +68,5 @@ It does this by breaking the route in the segments and sending multiple requests
 
 .. image:: docs/images/example_screenshot_3.png
 
-.. line-block:: ------------------
 
-Credits
--------
 
-This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
-
-.. _Cookiecutter: https://github.com/audreyr/cookiecutter
-.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
